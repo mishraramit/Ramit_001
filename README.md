@@ -8,7 +8,7 @@
 </div>
 Here are some ideas to get you started:
 
-- 🔭 I have a passion for developing scalable web applications . And also, I have skill sets on STLC and SDLC process, Manual testing and Automation testing.
+- 🔭 I have a passion for developing scalable Web Development & Web Applications . And also, I have skill sets on STLC and SDLC process, Manual testing and Automation testing.
 - 🌱I am looking to join forces with red technologies to continue to grow my skill set while contributing to the positive outcome of making people "richer, smarter, and happier". 
 - 👯 I’m looking to collaborate on Ideas.
 - 🤔 I’m looking for help with opportunities.
