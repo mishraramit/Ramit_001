@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### :...technologist...About Me...:
 
-I am a Software Tester(Manual & Automation) || Software Developer || Web Developer <img src="https://media.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.gif" width="30"> from India.
+I am a Software Tester(Manual & Automation) || Web Developer <img src="https://media.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.gif" width="30"> from India.
 
 ---
 
